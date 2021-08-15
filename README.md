@@ -1,6 +1,5 @@
-### Hi there 👋
 ### Hi there 👋, my name is Segun.
-#### I am a front-end web developer
+### I am a front-end web developer
 I create content on Design and Development. I love learning new things about JavaScript every day and YouTube videos to learn more from others. I enjoy helping others on Twitter with my tweets about Web development and coding in general. I also blog about JavaScript once per week and publish on my hashnode account.
 
 You can check me on:
