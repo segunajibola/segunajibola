@@ -18,7 +18,7 @@ Blog: ajibolasegun.hashnode.dev
 
 ### More
 
-- 🔭 I’m currently working on building tailwind templates. 
+- 🔭 I’m working on building tailwind templates. 
 - 🌱 I’m currently learning JavaScript / React 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: twitter.com/iamsegunajibola 
