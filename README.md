@@ -8,13 +8,15 @@ Blog: ajibolasegun.hashnode.dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills 
+### Skills 
 🦓HTML <br>
 💫CSS <br>
 🚸JAVASCRIPT <br>
 🌐TAILWINDCSS <br>
 ✔BOOTSTRAP <br>
 🍁CANVA 
+
+### More
 
 - 🔭 I’m currently working on building tailwind templates. 
 - 🌱 I’m currently learning JavaScript / React 
