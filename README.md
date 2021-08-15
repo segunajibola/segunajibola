@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Segun.
-### I am a front-end web developer
+#### I am a front-end web developer
 I create content on Design and Development. I love learning new things about JavaScript every day and YouTube videos to learn more from others. I enjoy helping others on Twitter with my tweets about Web development and coding in general. I also blog about JavaScript once per week and publish on my hashnode account.
 
 You can check me on:
@@ -21,8 +21,6 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / CANVA
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=segunajibola)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true)  
@@ -32,4 +30,3 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / CANVA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)  
 
 ![Profile views](https://gpvc.arturio.dev/segunajibola)  
-
