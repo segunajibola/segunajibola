@@ -4,8 +4,8 @@ I create content on Design and Development. I love learning new things about Jav
 I also blog about JavaScript once per week and publish on my hashnode account.
 
 You can check me on: <br>
-Twitter: twitter.com/iamsegunajibola <br>
-Blog: ajibolasegun.hashnode.dev
+Twitter @ twitter.com/iamsegunajibola <br>
+Blog @ ajibolasegun.hashnode.dev
 
 ### Skills 
 🦓HTML <br>
