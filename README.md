@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Segun.
+## Hello there 👋, my name is Segun.
 ### I'm a front-end web developer
 I create content on Design and Development. I love learning new things about JavaScript every day. I enjoy helping others on Twitter about Web development and coding in general. 
 I also blog about JavaScript once per week and publish on my hashnode account.
