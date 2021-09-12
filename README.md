@@ -5,7 +5,7 @@ I also blog about JavaScript once per week and publish on my hashnode account.
 
 You can check me on: <br>
 * [Twitter](twitter.com/iamsegunajibola) <br>
-* [My Blog](https://www.ajibolasegun.hashnode.dev)
+* [My Blog](https://hashnode.com/@segunajibola)
 
 ### Skills 
 🦓HTML <br>
