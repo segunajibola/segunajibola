@@ -12,8 +12,8 @@ Anyway, you can check me on: <br>
 🦓HTML <br>
 💫CSS <br>
 🚸JAVASCRIPT <br>
-🌐TAILWINDCSS <br>
-✔BOOTSTRAP <br>
+🌊TAILWINDCSS <br>
+📦BOOTSTRAP <br>
 🥷 REACT <br>
 ⏭️ NEXT <br>
 🍁CANVA 
