@@ -15,7 +15,7 @@ Anyway, you can check me on: <br>
 🌐TAILWINDCSS <br>
 ✔BOOTSTRAP <br>
 🥷 REACT <br>
-🥷 NEXT <br>
+⏭️ NEXT <br>
 🍁CANVA 
 
 ### More
