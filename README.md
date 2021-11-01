@@ -1,12 +1,13 @@
 ## Hello there 👋, my name is Segun.
 ### Front-end web developer
-I create stuff on Design and Development, love learning new things about JavaScript every day. <br> <br>
+I create stuff on Design and Development and love learning new things about JavaScript every day. <br> <br>
 I enjoy helping others and sharing my little knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
-I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola), but unlike Twitter, I suck on publishing on Hashnode consistently😞 .
+I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola).
 
-Anyway, you can check me on: <br>
-* [Twitter](https://twitter.com/iamsegunajibola) and <br>
+Connect on: <br>
+* [Twitter](https://twitter.com/iamsegunajibola)
 * [Hashnode](https://hashnode.com/@segunajibola)
+* [LinkedIn](https://www.linkedin.com/mwlite/in/segun-ajibola-511502175)
 
 ### Skills 
 🦓HTML <br>
@@ -20,9 +21,9 @@ Anyway, you can check me on: <br>
 
 ### More
 
-- 🔭 I’m working on building tailwind templates at [Tailwinder](https://tailwinder.vercel.app), yes I ❤ Tailwind. 
+- 🔭 I’m working on building tailwind templates at [Tailwinder](https://tailwinder.vercel.app).Tailwindcss♥️. 
 - 🌱 I’m alwalys learning something about JavaScript.
-- 💬 Ask me about Web Development, I love building cool stuff.
+- 💬 Ask me about Web Development, I love building cool UIs.
 - 📫 Want to talk to me or send a message now? One click away ➡ [Twitter](https://twitter.com/messages/compose?recipient_id=1073136933876977664), [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com). 
 - ⚡ Fun fact: I'm an Arsenal fan and immune from heartbreaks. 
 
