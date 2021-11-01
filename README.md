@@ -21,7 +21,7 @@ Connect on: <br>
 
 ### More
 
-- 🔭 I’m working on building tailwind templates at [Tailwinder](https://tailwinder.vercel.app).Tailwindcss♥️. 
+- 🔭 I’m working on building tailwind templates at [Tailwinder](https://tailwinder.vercel.app). Tailwindcss♥️. 
 - 🌱 I’m alwalys learning something about JavaScript.
 - 💬 Ask me about Web Development, I love building cool UIs.
 - 📫 Want to talk to me or send a message now? One click away ➡ [Twitter](https://twitter.com/messages/compose?recipient_id=1073136933876977664), [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com). 
