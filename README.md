@@ -1,7 +1,5 @@
 ## Hello there 👋, I'm Segun.
 
-<br/>
-
 ### Front-end web developer
 I create stuff on Design and Development and love learning new things about JavaScript every day. <br> <br>
 I enjoy helping others and sharing my little knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
