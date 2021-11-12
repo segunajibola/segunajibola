@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Segun
+## Hello there 👋, I'm Segun. 
 
 ### Front-end web developer
 I create stuff on Design and Development and love learning new things about JavaScript every day. <br> <br>
