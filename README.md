@@ -1,11 +1,11 @@
 ## Hello there 👋, I'm Segun. 
 
 ### Front-end web developer
-I create stuff on Design and Development and love learning new things about JavaScript every day. <br> <br>
-I enjoy helping others and sharing my little knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
+I love creating stuff on Design and Development learning new things about JavaScript every day. <br> <br>
+I enjoy helping others by sharing my knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
 I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola).
 
-Connect on: <br>
+Connect with me on: <br>
 * [Twitter](https://twitter.com/iamsegunajibola)
 * [Hashnode](https://hashnode.com/@segunajibola)
 * [LinkedIn](https://www.linkedin.com/mwlite/in/segun-ajibola-511502175)
