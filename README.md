@@ -18,7 +18,7 @@ Connect with me on: <br>
 📦BOOTSTRAP <br>
 🥷 REACT <br>
 ⏭️ NEXT <br>
-🍁CANVA 
+🍁 CANVA 
 
 ### More
 
