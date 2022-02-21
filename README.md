@@ -26,7 +26,7 @@ Connect with me on: <br>
 - 🌱 I’m alwalys learning something about JavaScript.
 - 💬 Ask me about Web Development, I love building cool UIs.
 - 📫 Want to talk to me or send a message now? One click away ➡ [Twitter](https://twitter.com/messages/compose?recipient_id=1073136933876977664), [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com). 
-- ⚡ Fun fact: I'm an Arsenal fan and immune from heartbreaks. 
+- ⚡ Fun fact: I'm an Arsenal fan. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/iamsegunajibola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://ajibolasegun.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/segun-ajibola/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamsegunajibola/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamsegunajibola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iamsegunajibola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15411958)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](segunajibola.vercel.app)  
 
