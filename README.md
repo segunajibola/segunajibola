@@ -16,7 +16,7 @@ Connect with me on: <br>
 🚸JAVASCRIPT <br>
 🌊TAILWINDCSS <br>
 📦BOOTSTRAP <br>
-🥷 REACT <br>
+🍪 REACT <br>
 ⏭️ NEXT <br>
 🍁 CANVA 
 
