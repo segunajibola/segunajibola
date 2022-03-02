@@ -34,10 +34,11 @@ Connect with me on: <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true) 
+<! -- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true) -->
 ## 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandraise&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=sandraise&show_icons=true&theme=onedark" /></a>
+<a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
+<a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)  
