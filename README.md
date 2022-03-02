@@ -12,13 +12,15 @@ Connect with me on: <br>
 
 ### Skills 
 🦓HTML <br>
-💫CSS <br>
 🚸JAVASCRIPT <br>
 🌊TAILWINDCSS <br>
 📦BOOTSTRAP <br>
 🍪 REACT <br>
 ⏭️ NEXT <br>
 🍁 CANVA 
+
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### More
 
