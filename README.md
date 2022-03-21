@@ -58,21 +58,21 @@ I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola)
 ### Connect with me:
 <p align="left">
  <a href="https://twitter.com/iamsegunajibola" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_"   height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="segun-ajibola"   height="30" width="40" />
  </a>
  <a href="https://codepen.io/iamsegunajibola" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="morenike"       height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="segun-ajibola"       height="30" width="40" />
  </a>
  <a href="https://dev.to/iamajibolasegun" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="morenike" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="segun-ajibola" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/segun-ajibola-511502175/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="oyewole-morenike" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="segun-ajibola" height="30" width="40" />
  </a>
  <a href="https://stackoverflow.com/users/segunajibola" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"               alt="morenike-oyewolw" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"               alt="segun-ajibola" height="30" width="40" />
  </a>
  <a href="https://instagram.com/iamsegunajibola" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                   alt="herroyalpianist" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                   alt="segun-ajibola" height="30" width="40" />
  </a>
 </p>
 </br>
@@ -85,3 +85,6 @@ I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola)
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a> -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
+
+### Support me
+<p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morenike" /></a></p><br><br>
