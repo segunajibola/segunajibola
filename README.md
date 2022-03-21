@@ -48,4 +48,5 @@ Connect with me on: <br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)  
 
-![Profile views](https://gpvc.arturio.dev/segunajibola)  
+![Profile views](https://gpvc.arturio.dev/segunajibola)
+<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
