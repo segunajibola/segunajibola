@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/segunajibola)
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
-<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=825&color=blue"></a>
+<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=835&color=blue"></a>
 
 ### Front-end web developer
 I create projects & content on Development, learning new things about JavaScript every day. <br> <br>
