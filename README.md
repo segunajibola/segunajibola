@@ -2,9 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/segunajibola)
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
-<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=835&color=blue"></a>
+<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=851&color=blue"></a>
 
-### Front-end  developer
+### Front-end developer
 I create projects & content on Development, learning new things about JavaScript every day. <br> <br>
 I enjoy helping others by sharing my knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
 I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola).
