@@ -53,7 +53,7 @@ I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola)
 - 🌱 I’m learning something new about JavaScript.
 - 💬 Ask me about Web Development.
 - 📫 Want to send a message? ➡ [Twitter](https://twitter.com/messages/compose?recipient_id=1073136933876977664), [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com). 
-- ⚡ Fun fact: I'm love Tailwind CSS.
+- ⚡ Fun fact: I love Tailwind CSS.
 
 ### Connect with me:
 <p align="left">
