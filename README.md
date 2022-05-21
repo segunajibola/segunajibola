@@ -94,20 +94,7 @@ I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola)
 
 <!--END_SECTION:activity-->
 
-### Recent Activity
-
-
-
-
-
 ### Support me
-
-
-
-
-
-
-
 
 If you love the work I'm doing and would like to support me, you can buy me a coffee
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
