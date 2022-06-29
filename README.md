@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Segun Ajibola.
+## Hey there 👋, I'm Segun Ajibola.
 
 ![Profile views](https://gpvc.arturio.dev/segunajibola)
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
