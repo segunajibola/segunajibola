@@ -8,11 +8,17 @@ Hi👋, I'm Segun Ajibola. 22, from Nigeria. Likes Spagetti, Arsenal, and JavaSc
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg) -->
 I'm a..
 ### Front-end developer.
-I create projects & content on development, learning new things about JavaScript every day. <br> <br>
-I enjoy helping others by sharing my knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general. <br> <br>
-I blog about JavaScript weekly on [Hashnode](https://hashnode.com/@segunajibola).
+I create projects & content on Web development, focusing on JavaScript. I enjoy helping others by sharing my knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general.
 
 ### Technical Writer
+Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org).
+
+Some of my recent articles
+[Fundamentals of JavaScript - For Complete Beginners - Personal blog](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
+[]()
+[]()
+[]()
+[How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Open Source Contributor
 
