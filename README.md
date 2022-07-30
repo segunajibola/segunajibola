@@ -3,15 +3,16 @@
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin Friends&message=1k&color=blue"></a>
 ## Introduction
 
-Hi👋, I'm Segun Ajibola. 22, from Nigeria. Likes Spagetti, Arsenal, and JavaScript. Nice to meet you. 🙌
+Hi👋. I'm Segun Ajibola, 22, from Nigeria. Likes Spagetti, Arsenal, and JavaScript. Nice to meet you. 🤝
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg) -->
 I'm a..
 ### Front-end developer.
-I create projects & content on Web development, focusing on JavaScript. I enjoy helping others by sharing my knowledge on [Twitter](https://twitter.com/iamsegunajibola) about Web development and coding in general.
+I create projects & content on Web development, focusing on JavaScript. Some of my projects
+- [Foodarena](https://foodarena.vercel.app)
 
 ### Technical Writer
-Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org).
+Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and write tweets to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge about Web development and coding in general.
 
 Some of my recent articles
 - [Fundamentals of JavaScript - For Complete Beginners](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
