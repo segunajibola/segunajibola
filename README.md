@@ -99,7 +99,7 @@ Some of my recent articles
 </p>
 </br>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true)
