@@ -9,7 +9,12 @@ Hi👋. I'm Segun Ajibola, 22, from Nigeria. Likes Spagetti, Arsenal, and JavaSc
 I'm a..
 ### Front-end developer.
 I create projects & content on Web development, focusing on JavaScript. Some of my projects
-- [Foodarena](https://foodarena.vercel.app)
+- [Personal portfolio](https://segunajibola.com)
+- [Foodarena](https://foodarena.vercel.app) Unfinished project.
+- [Tailwindplates](https://tailwindplates.vercel.app) Saas, ongoing.
+- [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
+- [Videva Fashion Line](https://videvafashionline.vercel.app) Bugs to fix
+- [Buscation](https://buscation-app.vercel.app) OpenSource project [Contribute here](https://github.com/segunajibola/buscation-app/issues)
 
 ### Technical Writer
 Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and write tweets to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge about Web development and coding in general.
