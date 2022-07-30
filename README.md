@@ -14,11 +14,11 @@ I create projects & content on Web development, focusing on JavaScript. I enjoy 
 Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org).
 
 Some of my recent articles
-[Fundamentals of JavaScript - For Complete Beginners - Personal blog](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
+- [Fundamentals of JavaScript - For Complete Beginners](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
 []()
 []()
 []()
-[How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
+- [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Open Source Contributor
 
