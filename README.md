@@ -102,10 +102,10 @@ Occasionally, I contribute to [Aviyel Open Source Products](), Golang job board 
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true)
-<!-- <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
-<a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true) -->
+<a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
+<a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
 
