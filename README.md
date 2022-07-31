@@ -30,7 +30,7 @@ Some of my recent articles
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Open Source Contributor
-Occasionally, I contribute to [Aviyel Open Source Products](), Golang job board and web tools and resources repo on GitHub. 
+Occasionally, I contribute to [Aviyel Open Source Products](), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) board and web tools and resources repo on GitHub. 
 
 ### Tech Stack
 <p align="left">
