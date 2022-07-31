@@ -13,7 +13,7 @@ I create projects & content on Web development, focusing on JavaScript.
 Some of my projects.. 
 - [Personal portfolio](https://segunajibola.com)
 - [Foodarena](https://foodarena.vercel.app) Unfinished project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
-- [Tailwindplates](https://tailwindplates.vercel.app) Saas, ongoing.
+- [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing.
 - [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
 - [Videva Fashion Line](https://videvafashionline.vercel.app) Bugs to fix
 - [Buscation](https://buscation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/buscation-app/issues) to contribute.
@@ -30,7 +30,7 @@ Some of my recent articles
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Open Source Contributor
-Occasionally, I contribute to [Aviyel Open Source Products](), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) board and web tools and resources repo on GitHub. 
+Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/projects), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) board, web tools and resources repositories on GitHub. 
 
 ### Tech Stack
 <p align="left">
