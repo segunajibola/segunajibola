@@ -24,9 +24,9 @@ Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about Jav
 
 Some of my recent articles
 - [Fundamentals of JavaScript - For Complete Beginners](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
-[]()
-[]()
-[]()
+- [When to Use 'var', 'let' and 'const' in JavaScript](https://blog.segunajibola.com/when-to-use-var-let-and-const-in-javascript)
+- [Callback Functions in JavaScript Over-Simplified](https://blog.segunajibola.com/callback-functions-in-javascript-over-simplified)
+- [What You Need To Know About Scope in JavaScript - No Buzzwords](https://blog.segunajibola.com/what-you-need-to-know-about-scope-in-javascript-no-buzzwords)
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Open Source Contributor
