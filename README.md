@@ -23,6 +23,7 @@ Some of my projects..
 Weekly, I publish on my [Hashnode blog](https://blog.segunajibola.com) about JavaScript and its ecosystem. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and write tweets to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge about Web development and coding in general.
 
 Some of my recent articles
+- [How to Build a Chrome Extension with Vanilla JavaScript from Scratch](https://blog.segunajibola.com/how-to-build-a-chrome-extension-with-vanilla-javascript-from-scratch)
 - [Fundamentals of JavaScript - For Complete Beginners](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
 - [When to Use 'var', 'let' and 'const' in JavaScript](https://blog.segunajibola.com/when-to-use-var-let-and-const-in-javascript)
 - [Callback Functions in JavaScript Over-Simplified](https://blog.segunajibola.com/callback-functions-in-javascript-over-simplified)
