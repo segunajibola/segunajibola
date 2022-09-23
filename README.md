@@ -121,3 +121,7 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 
 If you love the work I'm doing and would like to support me, you can buy me a coffee.
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+Image method: <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
