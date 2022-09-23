@@ -111,7 +111,7 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="margin:10px" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="margin:50px" />
 
 ### Recent Activity
 
