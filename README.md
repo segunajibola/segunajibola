@@ -110,6 +110,7 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
 ### Recent Activity
 
@@ -121,5 +122,3 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 
 If you love the work I'm doing and would like to support me, you can buy me a coffee.
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
