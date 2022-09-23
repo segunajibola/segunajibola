@@ -110,7 +110,7 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=segunajibola)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="margin:50px;display:block;" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" style="margin-left:50px;display:block;" />
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula) -->
 
 
