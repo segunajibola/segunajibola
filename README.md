@@ -23,8 +23,8 @@ Some of my projects..
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and coding. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
 
 Some of my recent articles
-- [Parameters vs Arguments in JavaScript - FreeCodeCamp](What's the Difference? https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
-- [How to Use Git and GitHub - FreeCodeCamp](Introduction for Beginners https://www.freecodecamp.org/news/introduction-to-git-and-github/)
+- [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
+- [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 - [How to Build a Chrome Extension with Vanilla JavaScript from Scratch](https://blog.segunajibola.com/how-to-build-a-chrome-extension-with-vanilla-javascript-from-scratch)
 - [Fundamentals of JavaScript - For Complete Beginners](https://blog.segunajibola.com/fundamentals-of-javascript-for-complete-beginners)
 - [When to Use 'var', 'let' and 'const' in JavaScript](https://blog.segunajibola.com/when-to-use-var-let-and-const-in-javascript)
