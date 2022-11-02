@@ -12,6 +12,7 @@ I create projects & content on Web development, focusing on JavaScript.
 
 Some of my projects.. 
 - [Personal portfolio](https://segunajibola.com)
+- [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
 - [Foodarena](https://foodarena.vercel.app) Unfinished project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
 - [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing.
 - [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
