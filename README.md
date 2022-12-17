@@ -10,15 +10,20 @@ I'm a..
 ### Front-end developer
 I create projects & content on Web development, focusing on JavaScript.
 
-Some of my projects.. 
+-- Web Projects
 - [Personal portfolio](https://segunajibola.com)
-- [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
-- [Foodarena](https://foodarena.vercel.app) Unfinished project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
-- [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing.
 - [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
-- [Videva Fashion Line](https://videvafashionline.vercel.app) Bugs to fix
-- [Buscation](https://buscation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/buscation-app/issues) to contribute.
 - [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed.
+- [Videva Fashion Line](https://videvafashionline.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/videva-fashion-line) on Github.
+- [Foodarena](https://foodarena.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
+
+### Open Source Contributor
+Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/projects), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board, web tools and resources repositories on GitHub.
+
+-- Opensource Projects
+- [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
+- [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing, click [here](https://github.com/segunajibola/tailwindplates/issues) to contribute.
+- [Buscation](https://buscation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/buscation-app/issues) to contribute.
 
 ### Technical Writer
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and coding. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
@@ -32,9 +37,6 @@ Some of my recent articles
 - [Callback Functions in JavaScript Over-Simplified](https://blog.segunajibola.com/callback-functions-in-javascript-over-simplified)
 - [What You Need To Know About Scope in JavaScript - No Buzzwords](https://blog.segunajibola.com/what-you-need-to-know-about-scope-in-javascript-no-buzzwords)
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
-
-### Open Source Contributor
-Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/projects), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board, web tools and resources repositories on GitHub. 
 
 ### Tech Stack
 <p align="left">
