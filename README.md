@@ -11,11 +11,11 @@ I'm a..
 I create projects & content on Web development, focusing on JavaScript.
 
 -- Web Projects
-- [Personal portfolio](https://segunajibola.com)
 - [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
 - [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed.
 - [Videva Fashion Line](https://videvafashionline.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/videva-fashion-line) on Github.
 - [Foodarena](https://foodarena.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
+- more projects on my [portfolio](https://segunajibola.com).
 
 ### Open Source Contributor
 Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/projects), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board, web tools and resources repositories on GitHub.
