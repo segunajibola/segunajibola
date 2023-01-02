@@ -13,7 +13,7 @@ I create projects & content on Web development, focusing on JavaScript.
 -- Web Projects
 - [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
 - [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed.
-- [Videva Fashion Line](https://videvafashionline.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/videva-fashion-line) on Github.
+- [Moda](https://moda.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/moda) on Github.
 - [Foodarena](https://foodarena.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
 - more projects on my [portfolio](https://segunajibola.com).
 
