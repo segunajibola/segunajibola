@@ -118,7 +118,7 @@ Some of my recent articles
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
 [![Segun Ajibola's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=segunajibola&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola) -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula) -->
 
