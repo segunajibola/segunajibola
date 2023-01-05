@@ -22,6 +22,7 @@ Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/p
 
 -- Opensource Projects
 - [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
+- [Windowwidth](https://windowwidth.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/windowwidth/issues) to contribute.
 - [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing, click [here](https://github.com/segunajibola/tailwindplates/issues) to contribute.
 - [Buscation](https://buscation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/buscation-app/issues) to contribute.
 
