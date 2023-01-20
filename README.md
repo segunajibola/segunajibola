@@ -21,6 +21,7 @@ I create projects & content on Web development, focusing on JavaScript.
 I have contributed to these projects but not limited to them 
  - [Aviyel Open Source Products](https://aviyel.com/projects),
  - [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
+ - [Awesome Articles Collection](https://github.com/Olanetsoft/awesome-article-collection)
  - web tools and resources repositories on GitHub.
  - open to more OS projects. Need collaborators to your project? Let me know.
 
