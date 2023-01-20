@@ -18,7 +18,11 @@ I create projects & content on Web development, focusing on JavaScript.
 - more projects on my [portfolio](https://segunajibola.com).
 
 ### Open Source Contributor
-Occasionally, I contribute to [Aviyel Open Source Products](https://aviyel.com/projects), [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board, web tools and resources repositories on GitHub.
+I have contributed to these projects but not limited to them 
+ - [Aviyel Open Source Products](https://aviyel.com/projects),
+ - [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
+ - web tools and resources repositories on GitHub.
+ - open to more OS projects. Need collaborators to your project? Let me know.
 
 -- Opensource Projects
 - [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
