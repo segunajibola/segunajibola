@@ -23,7 +23,7 @@ I have contributed to these projects but not limited to them
  - [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
  - [Awesome Articles Collection](https://github.com/Olanetsoft/awesome-article-collection)
  - web tools and resources repositories on GitHub.
- - open to more OS projects. Need collaborators to your project? Let me know.
+ - open to more OS projects. Need collaborators to your project? Let me know via [Mail](mailto:ajbl.segun@gmail.com) or [Twitter](https://twitter.com/iamsegunajibola)
 
 -- Opensource Projects
 - [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
