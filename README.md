@@ -1,3 +1,8 @@
+<div id="top"></div>
+
+<h2>Welcome</h2>
+
+
 ![GitHub profile views](https://gpvc.arturio.dev/segunajibola)
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter friends&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin Friends&message=1k&color=blue"></a>
@@ -145,3 +150,4 @@ Some of my recent articles
 
 If you love the work I'm doing and would like to support me, you can buy me a coffee.
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
+<p align="right"><a href="#top">Go to top</a></p>
