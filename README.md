@@ -38,6 +38,7 @@ I have contributed to these projects but not limited to them
 - [OpenSource101](https://github.com/segunajibola/opensource101) OpenSource project, click [here](https://github.com/segunajibola/opensource101/issues) to contribute.
 
 <p align="right"><a href="#top">Go to top</a></p>
+
 ### Technical Writer
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and coding. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
 
