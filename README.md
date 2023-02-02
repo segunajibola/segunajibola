@@ -1,5 +1,5 @@
 <div id="top"></div>
-
+<p align="right"><a href="#bottom">Go bottom</a></p>
 <h2>Welcome</h2>
 
 
@@ -155,3 +155,4 @@ Some of my recent articles
 If you love the work I'm doing and would like to support me, you can buy me a coffee.
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
 <p align="right"><a href="#top">Go to top</a></p>
+<div id="bottom"></div>
