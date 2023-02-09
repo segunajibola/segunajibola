@@ -34,7 +34,7 @@ I have contributed to these projects but not limited to them
 - [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
 - [Windowwidth](https://windowwidth.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/windowwidth/issues) to contribute.
 - [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing, click [here](https://github.com/segunajibola/tailwindplates/issues) to contribute.
-- [Tourcation](https://tourcation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/tourcation-app/issues) to contribute.
+- [Tourcation](https://tourcation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/tourcation/issues) to contribute.
 - [OpenSource101](https://github.com/segunajibola/opensource101) OpenSource project, click [here](https://github.com/segunajibola/opensource101/issues) to contribute.
 
 <p align="right"><a href="#top">Go to top</a></p>
