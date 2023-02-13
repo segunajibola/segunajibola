@@ -43,6 +43,7 @@ I have contributed to these projects but not limited to them
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and coding. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
 
 Some of my recent articles
+- [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
 - [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 - [How to Build a Chrome Extension with Vanilla JavaScript from Scratch](https://blog.segunajibola.com/how-to-build-a-chrome-extension-with-vanilla-javascript-from-scratch)
