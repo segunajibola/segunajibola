@@ -37,6 +37,13 @@ I have contributed to these projects but not limited to them
 - [Tourcation](https://tourcation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/tourcation/issues) to contribute.
 - [OpenSource101](https://github.com/segunajibola/opensource101) OpenSource project, click [here](https://github.com/segunajibola/opensource101/issues) to contribute.
 
+<a href="https://github.com/segunajibola/tourcation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segunajibola&repo=tourcation" />
+</a>
+<a href="https://github.com/segunajibola/opensource101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segunajibola&repo=opensource101" />
+</a>
+
 <p align="right"><a href="#top">Go to top</a></p>
 
 ### Technical Writer
