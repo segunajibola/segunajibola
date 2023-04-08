@@ -16,26 +16,26 @@ I'm a..
 I create projects & content on Web development, focusing on JavaScript.
 
 -- Web Projects
-- [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).
-- [Trenp](https://trenp.vercel.app) - Completed - [View code](https://github.com/segunajibola/trenp).
-- [Picbot](https://picbot.vercel.app) OpenSource - [View code](https://github.com/segunajibola/picbot).
-- [Foodarena](https://foodarena.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/foodarena).
-- [Tourcation](https://tourcation-app.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tourcation).
-- [Windowwidth](https://windowwidth.vercel.app) Ongoing - [View code](https://github.com/segunajibola/windowwidth/).
-- [OpenSource101](https://github.com/segunajibola/opensource101) Ongoing - [View code](https://github.com/segunajibola/opensource101).
-- [Tailwindplates](https://tailwindplates.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tailwindplates).
-- [T-Pro Signature](https://tprosignature.vercel.app) Completed - [View code](https://github.com/segunajibola/t-pro).
-- [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed - [View code](https://github.com/segunajibola/twitter-portfolio).
-- [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed - [View code](https://github.com/segunajibola/segunsfoodarcade).
-- [EtherChannels Business](https://etherchannelsbusiness.com) Ongoing.
-- [Savelinks Chrome Extension](https://savelinks.vercel.app) Completed - [View code](https://github.com/segunajibola/savelinks-chrome-extension).
+- 🚀[Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).
+- 🎉[Trenp](https://trenp.vercel.app) - Completed - [View code](https://github.com/segunajibola/trenp).
+- 🅿️[Picbot](https://picbot.vercel.app) Completed - [View code](https://github.com/segunajibola/picbot).
+- 🌮[Foodarena](https://foodarena.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/foodarena).
+- 🚍[Tourcation](https://tourcation-app.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tourcation).
+- 🪟[Windowwidth](https://windowwidth.vercel.app) Completed - [View code](https://github.com/segunajibola/windowwidth/).
+- 👥[OpenSource101](https://github.com/segunajibola/opensource101) Ongoing - [View code](https://github.com/segunajibola/opensource101).
+- 🌊[Tailwindplates](https://tailwindplates.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tailwindplates).
+- 😍[T-Pro Signature](https://tprosignature.vercel.app) Completed - [View code](https://github.com/segunajibola/t-pro).
+- 🐦[Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed - [View code](https://github.com/segunajibola/twitter-portfolio).
+- 🥣[Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed - [View code](https://github.com/segunajibola/segunsfoodarcade).
+- 👨‍💻[EtherChannels Business](https://etherchannelsbusiness.com) Ongoing.
+- 🔗[Savelinks Chrome Extension](https://savelinks.vercel.app) Completed - [View code](https://github.com/segunajibola/savelinks-chrome-extension).
 
 
 more projects on my [portfolio](https://segunajibola.com).
 
 
 ### Open Source Contributor
-I have contributed to these projects but not limited to them 
+Some of the projects I have contributed to.
  - [Aviyel Open Source Products](https://aviyel.com/projects),
  - [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
  - [Awesome Articles Collection](https://github.com/Olanetsoft/awesome-article-collection)
