@@ -42,7 +42,9 @@ I have contributed to these projects but not limited to them
  - web tools and resources repositories on GitHub.
  - open to more OS projects. Need collaborators to your project? Let me know via [Mail](mailto:ajbl.segun@gmail.com) or [Twitter](https://twitter.com/iamsegunajibola)
 
--- Opensource Projects
+-- Feel free to contribute to any of the project listed above:
+
+You can start with these:
 
 <a href="https://github.com/segunajibola/tourcation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segunajibola&repo=tourcation" />
