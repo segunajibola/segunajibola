@@ -16,11 +16,23 @@ I'm a..
 I create projects & content on Web development, focusing on JavaScript.
 
 -- Web Projects
-- [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed
-- [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed.
-- [Moda](https://moda-site.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/moda) on Github.
-- [Foodarena](https://foodarena.vercel.app) Ongoing project. View [code](https://github.com/segunajibola/foodarena) on GitHub.
-- more projects on my [portfolio](https://segunajibola.com).
+- [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).
+- [Trenp](https://trenp.vercel.app) - Completed - [View code](https://github.com/segunajibola/trenp).
+- [Picbot](https://picbot.vercel.app) OpenSource - [View code](https://github.com/segunajibola/picbot).
+- [Foodarena](https://foodarena.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/foodarena).
+- [Tourcation](https://tourcation-app.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tourcation).
+- [Windowwidth](https://windowwidth.vercel.app) Ongoing - [View code](https://github.com/segunajibola/windowwidth/).
+- [OpenSource101](https://github.com/segunajibola/opensource101) Ongoing - [View code](https://github.com/segunajibola/opensource101).
+- [Tailwindplates](https://tailwindplates.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tailwindplates).
+- [T-Pro Signature](https://tprosignature.vercel.app) Completed - [View code](https://github.com/segunajibola/t-pro).
+- [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed - [View code](https://github.com/segunajibola/twitter-portfolio).
+- [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed - [View code](https://github.com/segunajibola/segunsfoodarcade).
+- [EtherChannels Business](https://etherchannelsbusiness.com) Ongoing.
+- [Savelinks Chrome Extension](https://savelinks.vercel.app) Completed - [View code](https://github.com/segunajibola/savelinks-chrome-extension).
+
+
+more projects on my [portfolio](https://segunajibola.com).
+
 
 ### Open Source Contributor
 I have contributed to these projects but not limited to them 
@@ -31,11 +43,6 @@ I have contributed to these projects but not limited to them
  - open to more OS projects. Need collaborators to your project? Let me know via [Mail](mailto:ajbl.segun@gmail.com) or [Twitter](https://twitter.com/iamsegunajibola)
 
 -- Opensource Projects
-- [Picbot](https://picbot.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/picbot/issues) to contribute.
-- [Windowwidth](https://windowwidth.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/windowwidth/issues) to contribute.
-- [Tailwindplates](https://tailwindplates.vercel.app) SaaS, ongoing, click [here](https://github.com/segunajibola/tailwindplates/issues) to contribute.
-- [Tourcation](https://tourcation-app.vercel.app) OpenSource project, click [here](https://github.com/segunajibola/tourcation/issues) to contribute.
-- [OpenSource101](https://github.com/segunajibola/opensource101) OpenSource project, click [here](https://github.com/segunajibola/opensource101/issues) to contribute.
 
 <a href="https://github.com/segunajibola/tourcation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=segunajibola&repo=tourcation" />
