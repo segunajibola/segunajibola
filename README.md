@@ -40,7 +40,7 @@ Some of the projects I have contributed to.
  - 🏌️‍ [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
  - 🦸‍ [Awesome Articles Collection](https://github.com/Olanetsoft/awesome-article-collection)
  - Other web tools and resources repositories.
- - I'm pen to more OpenSource projects. If you need collaborators on your project, Let me know via [Mail](mailto:ajbl.segun@gmail.com) or [Twitter](https://twitter.com/iamsegunajibola)
+ - I'm open to more OpenSource projects. If you need collaborators on your project, Let me know via [Mail](mailto:ajbl.segun@gmail.com) or [Twitter](https://twitter.com/iamsegunajibola)
 
 -- Feel free to contribute to any of the project listed above:
 
