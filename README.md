@@ -2,10 +2,10 @@
 <p align="right"><a href="#bottom">Go bottom</a></p>
 <h2>Welcome</h2>
 
-
-![GitHub profile views](https://gpvc.arturio.dev/segunajibola)
-<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter friends&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
-<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin Friends&message=1k&color=blue"></a>
+<!-- ![GitHub profile views](https://gpvc.arturio.dev/segunajibola) -->
+![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
+<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
+<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
 ## Introduction.
 
 Hi 👋. I'm Segun Ajibola, 22, from Nigeria 🇳🇬. Likes Spagetti 🍝, Arsenal ⚽, and JavaScript 😖. Nice to meet you. 🤝
