@@ -96,13 +96,13 @@ Some of my recent articles
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
  </a>
  <a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/>
  </a>
  <a href="https://postgresql.org/" target="_blank">
-<img src="https://devicons.railway.app/i/postgresql.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/>
  </a>
  <a href="https://prisma.io/" target="_blank">
-<img src="https://devicons.railway.app/i/prisma-dark.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/>
  </a>
  
  
@@ -118,10 +118,16 @@ Some of my recent articles
 
 #### Learning..
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> -->
+ <a href="https://mongodb.com/" target="_blank">
+<img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/>
+ </a>
+  <a href="https://nodejs.org/" target="_blank">
+<img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/>
+ </a>
+   <a href="https://expressjs.com/" target="_blank">
+<img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/>
+ </a>
+
 
 ### More
 
