@@ -98,6 +98,13 @@ Some of my recent articles
  <a href="https://nextjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
  </a>
+ <a href="https://postgresql.org/" target="_blank">
+<img src="https://devicons.railway.app/i/postgresql.svg" alt="nextjs" width="40" height="40"/>
+ </a>
+ <a href="https://prisma.io/" target="_blank">
+<img src="https://devicons.railway.app/i/prisma-dark.svg" alt="nextjs" width="40" height="40"/>
+ </a>
+ 
  
 </p>
 <!--  
