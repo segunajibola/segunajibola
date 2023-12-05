@@ -70,64 +70,18 @@ Some of my recent articles
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
 ### Tech Stack
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40"/>
- </a>
- <a href="https://getbootstrap.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>
- </a>
- <a href="https://tailwindcss.com/" target="_blank">
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
- </a>
- <a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </a>
- <a href="https://typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
- </a>
- <a href="https://nextjs.org/" target="_blank">
-<img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/>
- </a>
- <a href="https://postgresql.org/" target="_blank">
-<img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/>
- </a>
- <a href="https://prisma.io/" target="_blank">
-<img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/>
- </a>
- 
- 
-</p>
-<!--  
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
+| HTML          | CSS |  JavaScript | Bootstrap | Tailwind  | Git | React | TypeScript | Next | Postgresql | Prisma|
+| ------------- | --- | ------------| --------- | ----------| --- |------ | ---------- |----- | ---------- | ----- |
+| <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/></a>  | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40"/></a>  |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/></a>|<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> |  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> |  <a href="https://typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a> |  <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/></a> |  <a href="https://postgresql.org/" target="_blank"><img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/></a> | <a href="https://prisma.io/" target="_blank"><img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/></a> |
+ 
 <p align="right"><a href="#top">Go to top</a></p>
 
 #### Learning..
 
- <a href="https://mongodb.com/" target="_blank">
-<img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/>
- </a>
-  <a href="https://nodejs.org/" target="_blank">
-<img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/>
- </a>
-   <a href="https://expressjs.com/" target="_blank">
-<img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/>
- </a>
-
+| MongoDB | Nodejs | Expressjs |
+| ------- | ------ | ----------|
+|  <a href="https://mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/></a> |  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/></a> |  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/></a>|
 
 ### More
 
