@@ -1,28 +1,20 @@
-# This is a basic workflow to help 
-name: Update README
-
+name: Hashnode Blog Posts
 on:
-
   schedule:
-
-    # Runs every 30 minutes
-
-    - cron: '*/30 * * * *'
+    # Runs every 6 hours of the day
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-
-  build:
-
+  update-readme-with-blog:
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
-
-    name: Update this repo's README with recent activity
-
     steps:
-
       - uses: actions/checkout@v2
-
-      - uses: jamesgeorge007/github-activity-readme@master
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://blog.segunajibola.com/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
