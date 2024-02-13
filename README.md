@@ -58,6 +58,10 @@ You can start with these:
 ### Technical Writer
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and coding. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 Some of my recent articles
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
