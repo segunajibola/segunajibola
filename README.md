@@ -66,7 +66,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
  - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)
  - 🌮 [Import and Export React Components Like a Pro](https://blog.segunajibola.com/import-and-export-react-components-like-a-pro)<!-- BLOGPOSTS:END -->
 
-Some of my recent articles
+My featured articles
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
 - [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
