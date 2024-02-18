@@ -1,6 +1,6 @@
 <div id="top"></div>
 <p align="right"><a href="#bottom">Go bottom</a></p>
-<h2>Welcome👋</h2>
+<h2>Welco me👋</h2>
 
 <!-- ![GitHub profile views](https://gpvc.arturio.dev/segunajibola) -->
 ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
