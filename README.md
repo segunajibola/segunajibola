@@ -126,7 +126,7 @@ Send a quick message via [WhatsApp](https://wa.me/2348105729893) or [Mail](mailt
 
 <a href="https://github.com/segunajibola/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true&theme=onedark" /></a>
 
-[![Segun Ajibola's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=segunajibola&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Segun Ajibola's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=segunajibola&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=segunajibola)
 
