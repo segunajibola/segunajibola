@@ -1,10 +1,13 @@
 <div id="top"></div>
 <p align="right"><a href="#bottom">Go bottom</a></p>
-<h2>Hello, welcome 👋</h2> ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
 
+ ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
+
+<h2>Hello, welcome 👋</h2>
 <!--<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a> -->
-## Introduction.
+
+### Introduction.
 
 I'm Segun Ajibola, 23, from Nigeria 🇳🇬. Likes Spaghetti 🍝, Arsenal ⚽, and JavaScript 😖. Favourite stack is React/TailwindCSS. Nice to meet you. 🤝
 
@@ -111,8 +114,8 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="segun-ajibola" height="30" width="40" />
  </a>
 </p>
+
 Send a quick message via [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com).
-</br>
 
 ### 📈 GitHub Stats
 
