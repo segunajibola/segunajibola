@@ -1,14 +1,12 @@
 <div id="top"></div>
 <p align="right"><a href="#bottom">Go bottom</a></p>
-<h2>Welco me👋</h2>
+<h2>Hello, welcome 👋</h2> ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
 
-<!-- ![GitHub profile views](https://gpvc.arturio.dev/segunajibola) -->
-![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
-<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
-<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
+<!--<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
+<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a> -->
 ## Introduction.
 
-Hello 👋. I'm Segun Ajibola, 23, from Nigeria 🇳🇬. Likes Spagetti 🍝, Arsenal ⚽, and JavaScript 😖. Nice to meet you. 🤝
+I'm Segun Ajibola, 23, from Nigeria 🇳🇬. Likes Spaghetti 🍝, Arsenal ⚽, and JavaScript 😖. Favourite stack is React/TailwindCSS. Nice to meet you. 🤝
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg) -->
 I'm a..
@@ -33,6 +31,19 @@ I create projects & content on Web development, focusing on JavaScript.
 
 more projects on my [portfolio](https://segunajibola.com).
 
+### Tech Stack
+
+| HTML          | CSS |  JavaScript | Bootstrap | Tailwind  | Git | React | TypeScript | Next | Postgresql | Prisma|
+| ------------- | --- | ------------| --------- | ----------| --- |------ | ---------- |----- | ---------- | ----- |
+| <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/></a>  | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40"/></a>  |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/></a>|<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> |  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> |  <a href="https://typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a> |  <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/></a> |  <a href="https://postgresql.org/" target="_blank"><img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/></a> | <a href="https://prisma.io/" target="_blank"><img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/></a> |
+ 
+<p align="right"><a href="#top">Go to top</a></p>
+
+#### Learning..
+
+| MongoDB | Nodejs | Expressjs |
+| ------- | ------ | ----------|
+|  <a href="https://mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/></a> |  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/></a> |  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/></a>|
 
 ### Open Source Contributor
 Some of the projects I have contributed to.
@@ -66,7 +77,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
  - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)
  - 🌮 [Import and Export React Components Like a Pro](https://blog.segunajibola.com/import-and-export-react-components-like-a-pro)<!-- BLOGPOSTS:END -->
 
-My featured articles
+#### My featured articles
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
 - [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
@@ -77,27 +88,8 @@ My featured articles
 - [What You Need To Know About Scope in JavaScript - No Buzzwords](https://blog.segunajibola.com/what-you-need-to-know-about-scope-in-javascript-no-buzzwords)
 - [How to Integrate Docz for React-Bootstrap - Aviyel](https://aviyel.com/post/3000/how-to-integrate-docz-for-react-bootstrap)
 
-### Tech Stack
-
-| HTML          | CSS |  JavaScript | Bootstrap | Tailwind  | Git | React | TypeScript | Next | Postgresql | Prisma|
-| ------------- | --- | ------------| --------- | ----------| --- |------ | ---------- |----- | ---------- | ----- |
-| <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/></a>  | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40"/></a>  |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/></a>|<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> |  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> |  <a href="https://typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a> |  <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/></a> |  <a href="https://postgresql.org/" target="_blank"><img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/></a> | <a href="https://prisma.io/" target="_blank"><img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/></a> |
- 
-<p align="right"><a href="#top">Go to top</a></p>
-
-#### Learning..
-
-| MongoDB | Nodejs | Expressjs |
-| ------- | ------ | ----------|
-|  <a href="https://mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/></a> |  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/></a> |  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/></a>|
-
-### More
-
-- 🔭 I’m building Tailwind templates with [Tailwindplates](https://tailwindplates.vercel.app) on [Github](https://github.com/segunajibola/Tailwindplates).
-- 🌱 I’m learning something new about JavaScript.
-- 💬 Ask me about Web Development.
-- 📫 Want to send a message? ➡ [Twitter](https://twitter.com/messages/compose?recipient_id=1073136933876977664), [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com). 
-- ⚡ Fun fact: I love Tailwind CSS.
+<!-- ### More
+🔭 I’m building Tailwind templates with [Tailwindplates](https://tailwindplates.vercel.app) on [Github](https://github.com/segunajibola/Tailwindplates).-->
 
 ### Connect with me:
 <p align="left">
@@ -119,6 +111,7 @@ My featured articles
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="segun-ajibola" height="30" width="40" />
  </a>
 </p>
+Send a quick message via [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com).
 </br>
 
 ### 📈 GitHub Stats
@@ -139,9 +132,9 @@ My featured articles
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula) -->
 
 
-### Recent Activity
+<!--### Recent Activity
 
-<!--START_SECTION:activity-->
+START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
