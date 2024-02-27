@@ -3,7 +3,7 @@
 
  ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
 
-<h2>Hello, welcome 👋</h2>
+<h2>Hello, welcome👋</h2>
 <!--<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a> -->
 
