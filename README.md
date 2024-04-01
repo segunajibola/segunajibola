@@ -74,11 +74,11 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Understanding Cookies: How Websites and Web Browsers Handle Your Data Behind the Scenes](https://blog.segunajibola.com/understanding-cookies-how-websites-and-web-browsers-handle-your-data-behind-the-scenes)
- - 🔥 [The Map Array Method In JavaScript](https://blog.segunajibola.com/the-map-array-method-in-javascript)
+ - 💫 [How to Match Exact String or Word in VSCode](https://blog.segunajibola.com/how-to-match-exact-string-or-word-in-vscode)
+ - 🔥 [Understanding Cookies: How Websites and Web Browsers Handle Your Data Behind the Scenes](https://blog.segunajibola.com/understanding-cookies-how-websites-and-web-browsers-handle-your-data-behind-the-scenes)
+ - 🌮 [The Map Array Method In JavaScript](https://blog.segunajibola.com/the-map-array-method-in-javascript)
  - 🌮 [Everything You Need to Know About Props in React](https://blog.segunajibola.com/everything-you-need-to-know-about-props-in-react)
- - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)
- - 🌮 [Import and Export React Components Like a Pro](https://blog.segunajibola.com/import-and-export-react-components-like-a-pro)<!-- BLOGPOSTS:END -->
+ - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)<!-- BLOGPOSTS:END -->
 
 #### My featured articles
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
