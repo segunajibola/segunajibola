@@ -21,7 +21,7 @@ I create projects & content on Web development, focusing on JavaScript.
 <!-- 🚀 [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).-->
 - 🎉 [Trenp](https://trenp.vercel.app)  - [View code](https://github.com/segunajibola/trenp).
 - 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot).
-- ✅ [Daily Todos](https://daily-todos.vercel.app) - [View code](https://github.com/segunajibola/daily-todos).
+- ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily).
 - 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy).
 <!-- 🌮 [Foodarena](https://foodarena.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/foodarena).-->
 - 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation).
