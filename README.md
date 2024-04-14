@@ -17,8 +17,8 @@ I create Web development projects & content focusing on JavaScript.
 | HTML/CSS | HTML/CSS/JS | TailwindCSS/React | TailwindCSS/Vue | TypeScript/React | Nextjs | Firebase |
 |----------|-------------|-------------------|-----------------|------------------|--------|----------|
 |   | 🔗 [Savelinks Chrome Extension](https://savelinks.vercel.app) - [View code](https://github.com/segunajibola/savelinks-chrome-extension) | 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot)   | Data 4   | ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily) | 🎉 [Trenp](https://trenp.vercel.app) - [View code](https://github.com/segunajibola/trenp)   | 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy)|
-| Data 5   | Data 6   | 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation) | Data 8   | Data 3   | 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro) |Data 4   |
-| Data 9   | Data 10  | 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/)| Data 12  | Data 3   | Data 4   |Data 4   |
+| Data 8   | Data 9   | 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation) | Data 11   | Data 12   | 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro) |Data 14   |
+| Data 15   | Data 16  | 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/)| Data 18  | Data 19   | 🛒[Ecommerce Landing page](https://vpoints-ecommerce.vercel.app/) - [View Code](https://github.com/segunajibola/vpoint_landing)  |Data 21   |
 
  
 <!-- 🚀 [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).-->
@@ -42,13 +42,14 @@ more projects on my [portfolio](https://segunajibola.com).
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <p align="right"><a href="#top">Go to top</a></p>
 
