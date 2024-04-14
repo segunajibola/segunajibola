@@ -17,39 +17,49 @@ I'm a..
 Web development projects & content focusing on JavaScript for frontend web development.
 
 -- Web Projects
+
+| HTML/CSS | HTML/CSS/JS | TailwindCSS/React | TailwindCSS/Vue | TypeScript/React | Nextjs | Firebase |
+|----------|-------------|-------------------|-----------------|------------------|--------|----------|
+|   | 🔗 [Savelinks Chrome Extension](https://savelinks.vercel.app) - [View code](https://github.com/segunajibola/savelinks-chrome-extension) | 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot)   | Data 4   | ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily) | 🎉 [Trenp](https://trenp.vercel.app) - [View code](https://github.com/segunajibola/trenp)   | 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy)|
+| Data 5   | Data 6   | 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation) | Data 8   | Data 3   | 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro) |Data 4   |
+| Data 9   | Data 10  | 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/)| Data 12  | Data 3   | Data 4   |Data 4   |
+
  
 <!-- 🚀 [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).-->
-- 🎉 [Trenp](https://trenp.vercel.app)  - [View code](https://github.com/segunajibola/trenp).
-- 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot).
-- ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily).
-- 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy).
 <!-- 🌮 [Foodarena](https://foodarena.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/foodarena).-->
-- 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation).
-- 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/).
 <!-- 👥 [OpenSource101](https://github.com/segunajibola/opensource101) Ongoing - [View code](https://github.com/segunajibola/opensource101).-->
 <!--🌊 [Tailwindplates](https://tailwindplates.vercel.app) Ongoing - [View code](https://github.com/segunajibola/tailwindplates).-->
-- 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro).
 <!-- 🐦 [Twitter Reviews](https://dannythompson-twitterportfolio.vercel.app) Completed - [View code](https://github.com/segunajibola/twitter-portfolio).-->
 <!-- 🥣 [Segun's Food Arcade](https://segunajibola.github.io/segunsfoodarcade/index.html) Completed - [View code](https://github.com/segunajibola/segunsfoodarcade).-->
 <!-- 👨‍💻 [EtherChannels Business](https://etherchannelsbusiness.com) Ongoing.-->
-- 🔗 [Savelinks Chrome Extension](https://savelinks.vercel.app) - [View code](https://github.com/segunajibola/savelinks-chrome-extension).
-
 
 more projects on my [portfolio](https://segunajibola.com).
 
 ### Tech Stack
 
-| HTML          | CSS |  JavaScript | Bootstrap | Tailwind  | Git | React | TypeScript | Next | Postgresql | Prisma|
-| ------------- | --- | ------------| --------- | ----------| --- |------ | ---------- |----- | ---------- | ----- |
-| <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/></a>  | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40"/></a>  |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/></a>|<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> |  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> |  <a href="https://typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a> |  <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40"/></a> |  <a href="https://postgresql.org/" target="_blank"><img src="https://devicons.railway.app/i/postgresql.svg" alt="postgresql" width="40" height="40"/></a> | <a href="https://prisma.io/" target="_blank"><img src="https://devicons.railway.app/i/prisma-light.svg" alt="prisma" width="40" height="40"/></a> |
- 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 <p align="right"><a href="#top">Go to top</a></p>
 
 #### Learning..
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-| MongoDB | Nodejs | Expressjs |
-| ------- | ------ | ----------|
-|  <a href="https://mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" width="40" height="40"/></a> |  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" width="40" height="40"/></a> |  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/icon/kg46nzoJrmTR/express-js" alt="expressjs" width="40" height="40"/></a>|
 
 ### Open Source Contributor
 Some of the projects I have contributed to.
