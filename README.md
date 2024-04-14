@@ -5,7 +5,7 @@
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-16k-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
 
-Hello, welcome 👋. I'm Segun Ajibola, frontend dev. spaghetti 🍝, arsenal, and JavaScript 😖, favourite stack is React/TailwindCSS 🔥. Interests are opensource, technical writing and dev rel. Nice to meet you. 🤝
+Hey there! 👋 It's Segun Ajibola, frontend dev with 5 years of experience. Spaghetti 🍝 and JavaScript 😖 have been my companions along the way, but nothing beats the thrill of React/TailwindCSS 🔥. When I'm not coding, you'll find me diving into open source projects, writing technical articles, or asking for help to fix a bug. Excited to connect and learn together! 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&random=false&width=1000&lines=Frontend+Web+Developer+%7C+Technical+Writer++%7C+Opensource+Contributor)](https://git.io/typing-svg)
 
@@ -13,12 +13,13 @@ Hello, welcome 👋. I'm Segun Ajibola, frontend dev. spaghetti 🍝, arsenal, a
 I create Web development projects & content focusing on JavaScript.
 
 ### Portfolio Projects
+<!--   🗼[]() - [View Code]()  -->
 
-| HTML/CSS | HTML/CSS/JS | TailwindCSS/React | TailwindCSS/Vue | TypeScript/React | Nextjs | Firebase |
-|----------|-------------|-------------------|-----------------|------------------|--------|----------|
-|   | 🔗 [Savelinks Chrome Extension](https://savelinks.vercel.app) - [View code](https://github.com/segunajibola/savelinks-chrome-extension) | 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot)   | Data 4   | ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily) | 🎉 [Trenp](https://trenp.vercel.app) - [View code](https://github.com/segunajibola/trenp)   | 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy)|
-| Data 8   | Data 9   | 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation) | Data 11   | Data 12   | 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro) |Data 14   |
-| Data 15   | Data 16  | 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/)| Data 18  | Data 19   | 🛒[Ecommerce Landing page](https://vpoints-ecommerce.vercel.app/) - [View Code](https://github.com/segunajibola/vpoint_landing)  |Data 21   |
+| HTML/CSS | HTML/CSS/JS | TailwindCSS/React | TailwindCSS/Vue | TypeScript/React | Nextjs | Firebase | GraphQL |
+|----------|-------------|-------------------|-----------------|------------------|--------|----------|---------|
+| 🗼[NFT Site](https://segunajibola.github.io/nft-site/) - [View Code](https://github.com/segunajibola/nft-site)  | 🔗 [Savelinks Chrome Extension](https://savelinks.vercel.app) - [View code](https://github.com/segunajibola/savelinks-chrome-extension) | 🅿️ [Picbot](https://picbot.vercel.app) - [View code](https://github.com/segunajibola/picbot)   | Data 4   | ✅ [Daily Todos](https://todos-daily.vercel.app) - [View code](https://github.com/segunajibola/todos-daily) | 🎉 [Trenp](https://trenp.vercel.app) - [View code](https://github.com/segunajibola/trenp)   | 🚗 [Roaddy](https://roaddy.vercel.app) - [View code](https://github.com/segunajibola/roaddy)|-g1|
+| Data 8   | 👟[Urbansoles](https://urbansoles.vercel.app/) - [View Code](https://github.com/segunajibola/urbansoles)   | 🚍 [Tourcation](https://tourcation-app.vercel.app) - [View code](https://github.com/segunajibola/tourcation) | Data 11   | Data 12   | 😍 [T-Pro Signature](https://tprosignature.vercel.app) - [View code](https://github.com/segunajibola/t-pro) |Data 14   |-g2|
+| Data 15   | ❔[Quizikal](https://quizikal.vercel.app/) - [View Code](https://github.com/segunajibola/quizikal-app)  | 🪟 [Windowwidth](https://windowwidth.vercel.app) - [View code](https://github.com/segunajibola/windowwidth/)| Data 18  | Data 19   | 🛒[Ecommerce Landing page](https://vpoints-ecommerce.vercel.app/) - [View Code](https://github.com/segunajibola/vpoint_landing)  |Data 21   |-g3|
 
  
 <!-- 🚀 [Moda](https://moda-site.vercel.app) - Ongoing - [View code](https://github.com/segunajibola/moda).-->
@@ -43,6 +44,7 @@ more projects on my [portfolio](https://segunajibola.com).
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -50,6 +52,12 @@ more projects on my [portfolio](https://segunajibola.com).
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
 
 <p align="right"><a href="#top">Go to top</a></p>
 
@@ -91,6 +99,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
  - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)<!-- BLOGPOSTS:END -->
 
 ### My featured articles
+- [How to Build a Pokemon App with GraphQL and Apollo](https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/?ref=dailydev)
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
 - [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
