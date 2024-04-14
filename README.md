@@ -1,22 +1,18 @@
 <div id="top"></div>
 <p align="right"><a href="#bottom">Go bottom</a></p>
 
- ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
+![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
+<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-16k-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
 
-<h2>Hello, welcome👋</h2>
-<!--<a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamsegunajibola?label=Twitter&message=16k&style=for-the-badge&logo=twitter&color=blue"></a>
-<a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a> -->
+Hello, welcome 👋. I'm Segun Ajibola, frontend dev. spaghetti 🍝, arsenal, and JavaScript 😖, favourite stack is React/TailwindCSS 🔥. Interests are opensource, technical writing and dev rel. Nice to meet you. 🤝
 
-### Introduction.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&random=false&width=1000&lines=Frontend+Web+Developer+%7C+Technical+Writer++%7C+Opensource+Contributor)](https://git.io/typing-svg)
 
-I'm Segun Ajibola, frontend dev. spaghetti 🍝, arsenal, and JavaScript 😖, favourite stack is React/TailwindCSS. Interests are opensource, technical writing and dev rel. Nice to meet you. 🤝
+## Front-end development
+I create Web development projects & content focusing on JavaScript.
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg) -->
-I'm a..
-### Front-end developer
-Web development projects & content focusing on JavaScript for frontend web development.
-
--- Web Projects
+### Portfolio Projects
 
 | HTML/CSS | HTML/CSS/JS | TailwindCSS/React | TailwindCSS/Vue | TypeScript/React | Nextjs | Firebase |
 |----------|-------------|-------------------|-----------------|------------------|--------|----------|
@@ -35,7 +31,7 @@ Web development projects & content focusing on JavaScript for frontend web devel
 
 more projects on my [portfolio](https://segunajibola.com).
 
-### Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -56,12 +52,12 @@ more projects on my [portfolio](https://segunajibola.com).
 
 <p align="right"><a href="#top">Go to top</a></p>
 
-#### Learning..
+### Learning..
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-### Open Source Contributor
+## Open Source Contributions
 Some of the projects I have contributed to.
  - 🥑 [Aviyel Open Source Products](https://aviyel.com/projects),
  - 🏌️‍ [Golang Cafe](https://github.com/segunajibola/job-board/tree/master) job board
@@ -82,10 +78,10 @@ You can start with these:
 
 <p align="right"><a href="#top">Go to top</a></p>
 
-### Technical Writer
+## Technical Writing
 Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) about JavaScript, web development and programming in general. I write for [Aviyel](https://aviyel.com) and [freeCodeCamp](https://freecodecamp.org) and tweet to help others on [Twitter](https://twitter.com/iamsegunajibola) by sharing my knowledge.
 
-#### :books: Recent Blog Posts
+### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💫 [How to Match Exact String or Word in VSCode](https://blog.segunajibola.com/how-to-match-exact-string-or-word-in-vscode)
  - 🔥 [Understanding Cookies: How Websites and Web Browsers Handle Your Data Behind the Scenes](https://blog.segunajibola.com/understanding-cookies-how-websites-and-web-browsers-handle-your-data-behind-the-scenes)
@@ -93,7 +89,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
  - 🌮 [Everything You Need to Know About Props in React](https://blog.segunajibola.com/everything-you-need-to-know-about-props-in-react)
  - 🌮 [API in Programming](https://blog.segunajibola.com/api-in-programming)<!-- BLOGPOSTS:END -->
 
-#### My featured articles
+### My featured articles
 - [How to Setup React and Tailwind CSS with Vite in a Project - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [Parameters vs Arguments in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
 - [How to Use Git and GitHub - FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
@@ -107,7 +103,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
 <!-- ### More
 🔭 I’m building Tailwind templates with [Tailwindplates](https://tailwindplates.vercel.app) on [Github](https://github.com/segunajibola/Tailwindplates).-->
 
-### Connect with me:
+## Connect with me:
 <p align="left">
  <a href="https://twitter.com/iamsegunajibola" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="segun-ajibola"   height="30" width="40" />
@@ -115,8 +111,10 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
  <a href="https://codepen.io/iamsegunajibola" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="segun-ajibola"       height="30" width="40" />
  </a>
+ <!--<a href="https://dev.to/iamajibolasegun" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="segun-ajibola" height="30" width="40" /></a>-->
  <a href="https://dev.to/iamajibolasegun" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="segun-ajibola" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="segun-ajibola" height="30" width="60" /></a>
  <a href="https://www.linkedin.com/in/segun-ajibola-511502175/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="segun-ajibola" height="30" width="40" />
  </a>
@@ -130,7 +128,7 @@ Weekly, I publish on my [personal Hashnode blog](https://blog.segunajibola.com) 
 
 Send a quick message via [WhatsApp](https://wa.me/2348105729893) or [Mail](mailto:ajbl.segun@gmail.com).
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segunajibola)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunajibola&show_icons=true) -->
@@ -154,7 +152,7 @@ START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-### Support me
+## Support me
 
 If you love the work I'm doing and would like to support me, you can buy me a coffee.
 <p><a href="https://www.buymeacoffee.com/segunajibola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support segunajibola" /></a></p><br><br>
