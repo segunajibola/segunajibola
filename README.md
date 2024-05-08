@@ -59,6 +59,8 @@ more projects on my [portfolio](https://segunajibola.com).
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
 
+<!--https://dev.to/envoy_/150-badges-for-github-pnk#skills-->
+
 <p align="right"><a href="#top">Go to top</a></p>
 
 ### Learning..
