@@ -5,7 +5,7 @@
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-16k-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
 
-Hey there! 👋 It's Segun Ajibola, frontend dev with 5 years of experience. Spaghetti 🍝 and JavaScript 😖 have been my companions along the way, but nothing beats the thrill of React/TailwindCSS 🔥. When I'm not coding, you'll find me diving into open source projects, writing technical articles, or asking for help to fix a bug. Excited to connect and learn together! 
+Hey there! 👋 It's Segun Ajibola, frontend dev with 5 years of experience. Spaghetti 🍝 and JavaScript 😖 have been my companions along the way, but nothing beats the thrill of React/TailwindCSS 🔥. When I'm not coding, you'll find me diving into open source projects, writing technical articles, or asking for help to fix a bug. Excited to connect and learn together
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&random=false&width=1000&lines=Frontend+Web+Developer+%7C+Technical+Writer++%7C+Opensource+Contributor)](https://git.io/typing-svg)
 
