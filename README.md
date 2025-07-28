@@ -1,6 +1,6 @@
 <div id="top"></div>
 <p align="right"><a href="#bottom">Go bottom</a></p>
-
+.
 ![GitHub profile views](https://komarev.com/ghpvc/?username=segunajibola)
 <a href="https://twitter.com/iamsegunajibola"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-16k-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue"></a>
 <a href="https://www.linkedin.com/in/segun-ajibola-511502175/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=1k&color=blue"></a>
